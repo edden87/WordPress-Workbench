@@ -13,6 +13,11 @@
         "wpackagist-plugin/akismet":"*",
         "wpackagist-plugin/woocommerce":"*"
     },
+    "require-dev": {
+        "wpackagist-plugin/simply-show-hooks":"*",
+        "wpackagist-plugin/query-monitor":"*",
+        "wpackagist-plugin/duplicate-post":"*"
+    },
     "authors": [
         {
             "name": "Ian Tumulak",
