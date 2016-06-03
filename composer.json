@@ -1,0 +1,22 @@
+{
+    "name": "edden87/wordpress-workbench",
+    "require": {
+        "johnpbloch/wordpress": "~4.5"
+    },
+    "repositories":[
+        {
+            "type":"composer",
+            "url":"https://wpackagist.org"
+        }
+    ],
+    "require": {
+        "wpackagist-plugin/akismet":"*",
+        "wpackagist-plugin/woocommerce":"*"
+    },
+    "authors": [
+        {
+            "name": "Ian Tumulak",
+            "email": "edden87@gmail.com"
+        }
+    ]
+}
