@@ -1,8 +1,5 @@
 {
     "name": "edden87/wordpress-workbench",
-    "require": {
-        "johnpbloch/wordpress": "~4.5"
-    },
     "repositories":[
         {
             "type":"composer",
@@ -10,6 +7,7 @@
         }
     ],
     "require": {
+        "johnpbloch/wordpress": "~4.5",
         "wpackagist-plugin/akismet":"*",
         "wpackagist-plugin/woocommerce":"*"
     },
