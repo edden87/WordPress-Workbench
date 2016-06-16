@@ -10,7 +10,8 @@
         "johnpbloch/wordpress": "~4.5",
         "wpackagist-plugin/akismet":"*",
         "wpackagist-plugin/woocommerce":"*",
-        "wpackagist-theme/twentyfifteen":"*"
+        "wpackagist-theme/twentyfifteen":"*",
+        "wpackagist-theme/twentysixteen":"*"
     },
     "require-dev": {
         "wpackagist-plugin/simply-show-hooks":"*",
