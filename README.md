@@ -7,6 +7,7 @@ This package is meant to kickstart your WordPress Development. I highly do not r
 Installing is as simple as:
 
     git clone git@github.com:edden87/WordPress-Workbench.git my-project
+    cd my-project
     composer install
 
 Open wp-config.php and define your mysql settings
