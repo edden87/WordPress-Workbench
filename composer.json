@@ -19,7 +19,7 @@
         "wpackagist-plugin/debug-bar":"*",
         "wpackagist-plugin/duplicate-post":"*",
         "wpackagist-plugin/show-current-template":"*",
-        "wpackagist-plugin/wp-control":"*",
+        "wpackagist-plugin/wp-crontrol":"*",
         "wpackagist-plugin/ari-adminer":"*"
     },
     "authors": [
