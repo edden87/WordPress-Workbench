@@ -1,6 +1,5 @@
 # WordPress Workbench
 WordPress Workbench is a WordPress starter project. Inspired by Mark Jaquith's [WordPress Skeleton](https://github.com/markjaquith/WordPress-Skeleton) and John P. Bloch [WordPress Project](https://github.com/johnpbloch/wordpress-project).
-This package is meant to kickstart your WordPress Development. I highly do not recommend this to be deployed in production server.
 
 ## Getting Started
 
@@ -21,15 +20,22 @@ Open wp-config.php and define your mysql settings
     /** MySQL database password */
     define('DB_PASSWORD', 'YOUR_PASSWORD_HERE');
 
-## Adding WordPress .gitignore:
+## Core Files
 
-Depending on your preference you can install a GIST .gitignore.
-  
-    curl -O https://gist.githubusercontent.com/salcode/b515f520d3f8207ecd04/raw/.gitignore
+- WordPress
+- WP CLI
+- Sage Theme
 
-Or doing it manually
+## Dev Tools
 
-    touch .gitignore
+- Simply Show Hooks
+- Query Monitor
+- WordPress Php Info
+- Debug Bar
+- Duplicates Post
+- Show Current Template
+- WP Control
+- Ari Adminer
 
 ## License
 
