@@ -1,6 +1,5 @@
 # WordPress Workbench
 WordPress Workbench is a WordPress starter project. Inspired by Mark Jaquith's [WordPress Skeleton](https://github.com/markjaquith/WordPress-Skeleton) and John P. Bloch [WordPress Project](https://github.com/johnpbloch/wordpress-project).
-This package is meant to kickstart your WordPress Development. I highly do not recommend this to be deployed in production server.
 
 ## Getting Started
 
