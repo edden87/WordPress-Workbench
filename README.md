@@ -21,15 +21,22 @@ Open wp-config.php and define your mysql settings
     /** MySQL database password */
     define('DB_PASSWORD', 'YOUR_PASSWORD_HERE');
 
-## Adding WordPress .gitignore:
+## Core Files
 
-Depending on your preference you can install a GIST .gitignore.
-  
-    curl -O https://gist.githubusercontent.com/salcode/b515f520d3f8207ecd04/raw/.gitignore
+- WordPress
+- WP CLI
+- Sage Theme
 
-Or doing it manually
+## Dev Tools
 
-    touch .gitignore
+- Simply Show Hooks
+- Query Monitor
+- WordPress Php Info
+- Debug Bar
+- Duplicates Post
+- Show Current Template
+- WP Control
+- Ari Adminer
 
 ## License
 
