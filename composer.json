@@ -8,17 +8,19 @@
     ],
     "require": {
         "johnpbloch/wordpress": "~4.5",
-        "wpackagist-plugin/akismet":"*",
-        "wpackagist-plugin/woocommerce":"*",
-        "wpackagist-theme/twentyfifteen":"*",
-        "wpackagist-theme/twentysixteen":"*"
+        "wp-cli/wp-cli" : "~0.22",
+        "psy/psysh" : "~0.6",
+        "roots/sage": "^8.5"
     },
     "require-dev": {
         "wpackagist-plugin/simply-show-hooks":"*",
         "wpackagist-plugin/query-monitor":"*",
         "wpackagist-plugin/wordpress-php-info":"*",
         "wpackagist-plugin/debug-bar":"*",
-        "wpackagist-plugin/duplicate-post":"*"
+        "wpackagist-plugin/duplicate-post":"*",
+        "wpackagist-plugin/show-current-template":"*",
+        "wpackagist-plugin/wp-control":"*",
+        "wpackagist-plugin/ari-adminer":"*"
     },
     "authors": [
         {
